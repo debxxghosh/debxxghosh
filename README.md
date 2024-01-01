@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debxxghosh&label=Profile%20views&color=0e75b6&style=flat" alt="debxxghosh" /> </p>
 
-E-mail-ID **ghoshxdebjit@gmail.com**
+E-mail-ID : **ghoshxdebjit@gmail.com**
 
 <h3 align="left">Connect with me : <a href="https://linkedin.com/in/https://www.linkedin.com/in/-debjit-ghosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-debjit-ghosh/" height="25" width="25" /></a>
 </h3>
