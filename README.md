@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debxxghosh&label=Profile%20views&color=0e75b6&style=flat" alt="debxxghosh" /> </p>
 
-- E-mail-ID **ghoshxdebjit@gmail.com**
+E-mail-ID **ghoshxdebjit@gmail.com**
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
