@@ -1,5 +1,5 @@
 <h1 align="center">Hey ! I'm Debjit Ghosh</h1>
-<h3 align="center">Working as an Automation Engineer from India</h3>
+<h3 align="center"> Automation Engineer Professional from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debxxghosh&label=Profile%20views&color=0e75b6&style=flat" alt="debxxghosh" /> </p>
 
